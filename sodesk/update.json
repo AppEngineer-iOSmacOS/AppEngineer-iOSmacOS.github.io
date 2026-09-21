@@ -1,6 +1,6 @@
 {
   "version": "1.1.4",
-  "build": 4,
+  "build": 5,
   "downloadURL": "https://raw.githubusercontent.com/AppEngineer-iOSmacOS/AppEngineer-iOSmacOS.github.io/main/sodesk/SoDesk.dmg",
-  "releaseNotes": "Что нового в SoDesk 1.1.4:\n• Fix Uninstaller, Scroll Screen"
+  "releaseNotes": "Что нового в SoDesk 1.1.5:\n• Fix folders Screen"
 }
