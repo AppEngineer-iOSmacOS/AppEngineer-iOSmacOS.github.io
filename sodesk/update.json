@@ -1,6 +1,6 @@
 {
   "version": "1.2.1",
-  "build": 1,
+  "build": 2,
   "downloadURL": "https://raw.githubusercontent.com/AppEngineer-iOSmacOS/AppEngineer-iOSmacOS.github.io/main/sodesk/SoDesk.dmg",
   "releaseNotes": "Что нового в SoDesk 1.2.1:\n• Add android transfer"
 }
